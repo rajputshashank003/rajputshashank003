@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Shashank Rajput.
-- 👀 I’m interested in A.I and Android Develop.
-- 🌱 I’m currently learning CSS and Java.
-- 📫 Here is my linked in profile https://www.linkedin.com/in/shashank-rajput-49a22723a
+- Hi, I’m Shashank Rajput.
+- Computer Science and Engineering Student at Chitkara University (2022 - 26)
+- Data Structures and Algorithms
+- Java (DSA)
+- C
+- HTML
+- CSS
+- Javascript
+- LinkedIn -> https://www.linkedin.com/in/rajputshashank
 
 <!---
 rajputshashank003/rajputshashank003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
