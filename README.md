@@ -6,6 +6,7 @@
 - HTML
 - CSS
 - Javascript
+- MERN STACK 
 - LinkedIn -> https://www.linkedin.com/in/rajputshashank
 
 <!---
