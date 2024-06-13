@@ -29,8 +29,9 @@ _Chitkara University (2022 - 2026)_
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [Shashank Rajput](https://www.linkedin.com/in/rajputshashank)
-- **LeetCode**: [Shashank Rajput](https://leetcode.com/u/rajputshashank/)
+- **[LinkedIn](https://www.linkedin.com/in/rajputshashank)**
+- **[LeetCode](https://leetcode.com/u/rajputshashank/)**
+- **[Instagram](https://www.instagram.com/rajputshashank_/)**
 
 <!-- ## 📈 GitHub Stats
 
@@ -54,7 +55,7 @@ An Airbnb clone built using full-stack. This project replicates core features of
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rajputshashank) or through email at [shashank@example.com](mailto:shashank@example.com). I am always open to discussing new projects, collaborations, or opportunities in the field of software development.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rajputshashank). I am always open to discussing new projects, collaborations, or opportunities in the field of software development.
 
 ## 💡 Fun Fact
 
