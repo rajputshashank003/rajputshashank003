@@ -1,4 +1,3 @@
-<img src="https://github.com/rajputshashank003/rajputshashank003/assets/120770676/d7a89b4b-89c3-4e9c-a957-73a13d9c4565" alt="Profile Image" width="200" height="200">
 # Hi, I’m Shashank Rajput
 
 I am a passionate Computer Science and Engineering student at Chitkara University, currently in my second year (2022 - 2026). My interests lie in data structures and algorithms, full-stack web development, and solving complex problems through coding.
