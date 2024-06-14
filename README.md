@@ -24,7 +24,7 @@ I am a passionate Computer Science and Engineering student at Chitkara Universit
 
 ## 📚 Education
 
-**Bachelor of Technology in Computer Science and Engineering**  
+**Bachelor's in Computer Science and Engineering**  
 _Chitkara University (2022 - 2026)_
 
 ## 🔗 Connect with Me
