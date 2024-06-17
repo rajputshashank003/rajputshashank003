@@ -20,7 +20,7 @@ I am a passionate Computer Science and Engineering student at Chitkara Universit
 
 - **Algorithms & Problem Solving**:
   - Data Structures
-  - Competitive Programming [LeetCode](https://leetcode.com/u/rajputshashank/)
+  - [LeetCode](https://leetcode.com/u/rajputshashank/)
 
 ## 📚 Education
 
