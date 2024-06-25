@@ -1,6 +1,6 @@
 # Hi, I’m Shashank Rajput
 
-I am a passionate Computer Science and Engineering student at Chitkara University, currently in my second year (2022 - 2026). My interests lie in data structures and algorithms, full-stack web development, and solving complex problems through coding.
+I am a passionate Computer Science and Engineering student at Chitkara University, currently in my third year (2022 - 2026). My interests lie in data structures and algorithms, full-stack web development, and solving complex problems through coding.
 
 ## 🛠 Skills
 
