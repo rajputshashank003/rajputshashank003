@@ -20,7 +20,6 @@ I am a passionate Computer Science and Engineering student at Chitkara Universit
 
 - **Algorithms & Problem Solving**:
   - Data Structures
-  - [LeetCode](https://leetcode.com/u/rajputshashank/)
 
 ## 📚 Education
 
@@ -30,7 +29,6 @@ _Chitkara University (2022 - 2026)_
 ## 🔗 Connect with Me
 
 - **[LinkedIn](https://www.linkedin.com/in/rajputshashank)**
-- **[LeetCode](https://leetcode.com/u/rajputshashank/)**
 - **[Instagram](https://www.instagram.com/rajputshashank_/)**
 
 <!-- ## 📈 GitHub Stats
