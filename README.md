@@ -47,7 +47,7 @@ A real-time multiplayer chess game built using React.js and Socket.io.
 ### AirBnb-Clone
 An Airbnb clone built using full-stack. This project replicates core features of the Airbnb platform, allowing users to search for accommodations, view listings with detailed information.
 - [Repository](https://github.com/rajputshashank003/Airbnb-MajorProject)
-- [Live Demo](https://airbnb-majorproject-e1qd.onrender.com/listings)
+- [Live Demo](https://1airbnb.vercel.app)
 
 <!-- Add more projects as needed -->
 
