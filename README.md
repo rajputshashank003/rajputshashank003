@@ -13,7 +13,7 @@ I am a passionate Computer Science and Engineering student at Chitkara Universit
   - **Front-end**: React.js
   - **Back-end**: Node.js, Express.js
   - **Databases**: MongoDB, SQL
-  - **Real-time Communication**: Socket.io
+  - **Real-time Communication**: Socket.io , WebRTC
 
 - **Full-Stack Development**:
   - **MERN Stack**: MongoDB, Express.js, React.js, Node.js
