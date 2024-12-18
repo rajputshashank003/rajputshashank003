@@ -40,7 +40,7 @@ _Chitkara University (2022 - 2026)_
 ## 🚀 Projects
 
 ### Chess Web App
-A real-time multiplayer chess game built using React.js and Socket.io.
+A real-time multiplayer chess game built using React.js , Socket.io and WebRTC.
 - [Repository](https://github.com/rajputshashank003/Chess.v.0.2.1)
 - [Live Demo](https://chessv.netlify.app/)
 
