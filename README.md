@@ -1,6 +1,11 @@
 # Hi, I’m Shashank Rajput
 
-I am a passionate Computer Science and Engineering student at Chitkara University, currently in my third year (2022 - 2026). My interests lie in data structures and algorithms, full-stack web development, and solving complex problems through coding.
+## Currently
+
+I'm a **Computer Science and Engineering undergraduate** at **Chitkara University**, currently working as a **Software Engineer Intern at WizCommerce**.  
+At WizCommerce, I'm learning how scalable systems are built and gaining hands-on experience in product-driven development.
+I'm passionate about solving real-world problems using **Data Structures & Algorithms** and building impactful products with technologies like **Java**, **JavaScript**, and the **MERN stack**.
+
 
 ## 🛠 Skills
 
