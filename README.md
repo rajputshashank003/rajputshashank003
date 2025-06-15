@@ -33,6 +33,7 @@ _Chitkara University (2022 - 2026)_
 
 ## 🔗 Connect with Me
 
+- **[Portfolio](https://rajputshashank.is-a.dev)**
 - **[LinkedIn](https://www.linkedin.com/in/rajputshashank)**
 - **[Instagram](https://www.instagram.com/rajputshashank_/)**
 
