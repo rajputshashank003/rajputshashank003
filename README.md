@@ -15,13 +15,10 @@ I'm passionate about solving real-world problems using **Data Structures & Algor
   - JavaScript
 
 - **Technologies**:
-  - **Front-end**: React.js
-  - **Back-end**: Node.js, Express.js
-  - **Databases**: MongoDB, SQL
+  - **Programming Languages** : Java , Javascript , SQL, C/C++, HTML , CSS, Typescript
+  - **Databases**: MongoDB, MySQL, PostgreSQL
   - **Real-time Communication**: Socket.io , WebRTC
-
-- **Full-Stack Development**:
-  - **MERN Stack**: MongoDB, Express.js, React.js, Node.js
+  - **Libraries and Frameworks**: Node.js , Express.js , React.js , Mongoose , Prisma, Three.js , GSAP, framer-motion, Locomotive.js, Material UI, leaflet.js,  Tailwind CSS, Pintura
 
 - **Algorithms & Problem Solving**:
   - Data Structures
