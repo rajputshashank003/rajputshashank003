@@ -1,18 +1,11 @@
 # Hi, I’m Shashank Rajput
 
-## Currently
-
-I'm a **Computer Science and Engineering undergraduate** at **Chitkara University**, currently working as a **Software Engineer Intern at WizCommerce**.  
+I'm currently working as a **Software Engineer Intern at WizCommerce** and pursuing my **Computer Science and Engineering undergraduate degree at Chitkara University**.
 At WizCommerce, I'm learning how scalable systems are built and gaining hands-on experience in product-driven development.
 I'm passionate about solving real-world problems using **Data Structures & Algorithms** and building impactful products with technologies like **Java**, **JavaScript**, and the **MERN stack**.
 
 
 ## 🛠 Skills
-
-- **Languages**:
-  - Java (DSA)
-  - C++
-  - JavaScript
 
 - **Technologies**:
   - **Programming Languages** : Java , Javascript , SQL, C/C++, HTML , CSS, Typescript
@@ -32,7 +25,6 @@ _Chitkara University (2022 - 2026)_
 
 - **[Portfolio](https://rajputshashank.is-a.dev)**
 - **[LinkedIn](https://www.linkedin.com/in/rajputshashank)**
-- **[Instagram](https://www.instagram.com/rajputshashank_/)**
 
 <!-- ## 📈 GitHub Stats
 
