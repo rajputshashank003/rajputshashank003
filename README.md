@@ -2,16 +2,16 @@
 
 I'm currently working as a **Software Engineer Intern at WizCommerce** and pursuing my **Computer Science and Engineering undergraduate degree at Chitkara University**.
 At WizCommerce, I'm learning how scalable systems are built and gaining hands-on experience in product-driven development.
-I'm passionate about solving real-world problems using **Data Structures & Algorithms** and building impactful products with technologies like **Java**, **JavaScript**, and the **MERN stack**.
+I'm passionate about solving real-world problems using **Data Structures & Algorithms** and building impactful products with technologies like **Java**, **Typescript**, and the **MERN stack**.
 
 
 ## 🛠 Skills
 
 - **Technologies**:
-  - **Programming Languages** : Java , Javascript , SQL, C/C++, HTML , CSS, Typescript
+  - **Programming Languages** : Java , Javascript , SQL, C/C++, HTML , CSS, Typescript, Go
   - **Databases**: MongoDB, MySQL, PostgreSQL
   - **Real-time Communication**: Socket.io , WebRTC
-  - **Libraries and Frameworks**: Node.js , Express.js , React.js , Mongoose , Prisma, Three.js , GSAP, framer-motion, Locomotive.js, Material UI, leaflet.js,  Tailwind CSS, Pintura
+  - **Libraries and Frameworks**: Node.js , Express.js , React.js , Mongoose, Prisma, GORM, Three.js, framer-motion, Material UI, Tailwind CSS
 
 - **Algorithms & Problem Solving**:
   - Data Structures
