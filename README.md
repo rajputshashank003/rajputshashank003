@@ -1,6 +1,6 @@
 # Hi, I’m Shashank Rajput
 
-I'm currently working as a **Software Engineer Intern at WizCommerce** and pursuing my **Computer Science and Engineering undergraduate degree at Chitkara University**.
+I'm currently working as a **Software Engineer at WizCommerce**.
 At WizCommerce, I'm learning how scalable systems are built and gaining hands-on experience in product-driven development.
 I'm passionate about solving real-world problems using **Data Structures & Algorithms** and building impactful products with technologies like **Java**, **Typescript**, and the **MERN stack**.
 
