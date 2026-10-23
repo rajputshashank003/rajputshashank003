@@ -71,7 +71,7 @@ Full-stack e-commerce platform covering the complete order lifecycle — browsin
 
 ## Achievements
 
-- **750+ DSA problems** solved on LeetCode in Java & Go, with a **1650+ contest rating** (top 16%)
+- **750+ DSA problems** solved on LeetCode in Java & Go, with a **1720+ contest rating** (top 10%)
 - **2 open-source npm packages** published, with 100+ weekly downloads combined
 
 ---
